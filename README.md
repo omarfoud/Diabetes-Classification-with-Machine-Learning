@@ -24,7 +24,7 @@ matplotlib
 Clone the repository:
 
 git clone https://github.com/omarfoud/Diabetes-Classification-with-Machine-Learning.git
-cd diabetes-classification
+cd Diabetes-Classification-with-Machine-Learning
 
 
 Run the script:
