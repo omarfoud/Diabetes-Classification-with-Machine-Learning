@@ -23,7 +23,7 @@ matplotlib
 
 Clone the repository:
 
-git clone https://github.com/omarfoud/diabetes-classification.git
+git clone https://github.com/omarfoud/Diabetes-Classification-with-Machine-Learning.git
 cd diabetes-classification
 
 
